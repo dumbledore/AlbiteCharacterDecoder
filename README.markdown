@@ -61,3 +61,5 @@ Here is an example of its usage, extracted from the test class:
                 utf8Buffer.append((char) read);
             }
         }
+
+The code is based on some code from libiconv.
