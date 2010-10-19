@@ -29,6 +29,8 @@ Using the API is almost the same like the `InputStreamReader`, with a few except
 - creating an `AlbiteStreamReader` can throw an IOException, because it may need to skip the BOM of a UTF-8 stream
 - a list of supported encodings can be obtained using `Encodings.ENCODINGS`
 - most encodings have name aliases, see the `Encodings` interface
+- all unknown characters are converted to question marks (if one needs different functionality, it would be not too hard to implement it themselves
+- the encoding of the reader my be changed after it has been created (useful for reading xml files for example)
 
 Here is an example of its usage, extracted from the test class:
 
