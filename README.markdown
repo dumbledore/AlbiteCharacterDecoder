@@ -30,7 +30,7 @@ Using the API is almost the same like the `InputStreamReader`, with a few except
 - a list of supported encodings can be obtained using `Encodings.ENCODINGS`
 - most encodings have name aliases, see the `Encodings` interface
 
-Here is an example of its usage:
+Here is an example of its usage, extracted from the test class:
 
         {
             /*
