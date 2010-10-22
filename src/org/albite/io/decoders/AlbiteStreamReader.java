@@ -131,4 +131,8 @@ public class AlbiteStreamReader
     public boolean markSupported() {
         return in.markSupported();
     }
+
+    public static boolean encodingSupported(final String encoding) {
+        return AlbiteCharacterDecoder.decoderAvailable(encoding);
+    }
 }

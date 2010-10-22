@@ -299,4 +299,30 @@ public interface Encodings {
         KOI8_RU,
         KOI8_U
     };
+
+    public static final String[][] ALIASES = {
+        UTF_8_ALIASES,
+        ASCII_ALIASES,
+        ISO_8859_1_ALIASES,
+        ISO_8859_2_ALIASES,
+        ISO_8859_3_ALIASES,
+        ISO_8859_4_ALIASES,
+        ISO_8859_5_ALIASES,
+        ISO_8859_7_ALIASES,
+        ISO_8859_9_ALIASES,
+        ISO_8859_10_ALIASES,
+        ISO_8859_13_ALIASES,
+        ISO_8859_14_ALIASES,
+        ISO_8859_15_ALIASES,
+        ISO_8859_16_ALIASES,
+        WINDOWS_1250_ALIASES,
+        WINDOWS_1251_ALIASES,
+        WINDOWS_1252_ALIASES,
+        WINDOWS_1253_ALIASES,
+        WINDOWS_1254_ALIASES,
+        WINDOWS_1257_ALIASES,
+        KOI8_R_ALIASES,
+        KOI8_RU_ALIASES,
+        KOI8_U_ALIASES
+    };
 }

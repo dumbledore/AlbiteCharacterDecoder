@@ -148,4 +148,14 @@ abstract class AlbiteCharacterDecoder
 
         return false;
     }
+
+    public static boolean decoderAvailable(final String encoding) {
+        for (int i = 0; i < ALIASES.length; i++) {
+            if (match(encoding, ALIASES[i])) {
+                return true;
+            }
+        }
+
+        return false;
+    }
 }
