@@ -34,32 +34,36 @@ Using the API is almost the same like the `InputStreamReader`, with a few except
 
 Here is an example of its usage, extracted from the test class:
 
-        {
-            /*
-             * Read the original file
-             */
-            AlbiteStreamReader reader =
-                    new AlbiteStreamReader(origStream, encoding);
+	{
+		/*
+		 * Read the original file
+		 */
+		AlbiteStreamReader reader =
+				new AlbiteStreamReader(origStream, encoding);
 
-            int read;
+		int read;
 
-            while ((read = reader.read()) != -1) {
-                originalBuffer.append((char) read);
-            }
-        }
+		while ((read = reader.read()) != -1) {
+			originalBuffer.append((char) read);
+		}
+	}
 
-        {
-            /*
-             * Now, read the utf-8 file, using the official java reader
-             */
-            InputStreamReader reader =
-                    new InputStreamReader(utf8Stream, "utf-8");
+	{
+		/*
+		 * Now, read the utf-8 file, using the official java reader
+		 */
+		InputStreamReader reader =
+				new InputStreamReader(utf8Stream, "utf-8");
 
-            int read;
+		int read;
 
-            while((read = reader.read()) != -1) {
-                utf8Buffer.append((char) read);
-            }
-        }
+		while((read = reader.read()) != -1) {
+			utf8Buffer.append((char) read);
+		}
+	}
+
+If one would like to check whether an encoding is supported by the reader, one could do that:
+
+	boolean supported = AlbiteStreamReader.encodingSupported(encoding);
 
 The code is based on some code from libiconv.
