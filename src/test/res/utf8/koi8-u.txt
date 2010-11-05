@@ -1,0 +1,679 @@
+<!doctype html public "-//w3c//dtd html 4.0 transitional//en"> 
+<html> 
+<head> 
+   <meta http-equiv="Content-Type" content="text/html; charset=koi8-u"> 
+   <meta name="GENERATOR" content="Mozilla/4.72 [en] (Win98; U) [Netscape]"> 
+   <meta name="Author" content="Yuri Demchenko"> 
+   <title>KOI8-U Test Page</title> 
+</head> 
+<body> 
+ 
+<font size=+2>KOI8-U Test Table</font><br> 
+<b><i><font size=+1>(Ukrainian, Russian and other symbols)</font></i></b> 
+<p> 
+<hr ALIGN=LEFT WIDTH="80%"> 
+<i><font size=+1>You can compare the content of test table and standard
+codetable image.</font></i> 
+<hr ALIGN=LEFT WIDTH="80%"> 
+ 
+<table BORDER CELLSPACING=0 CELLPADDING=0 WIDTH="505" > 
+<caption><a NAME="Fixed"></a><i>Fixed Font</i>: <b>80</b>H -
+<b>FF</b></caption> 
+ 
+<tr ALIGN=CENTER> 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="40">0x80</td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15"><tt>-</tt></td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15"><tt>і</tt></td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15"><tt>-</tt></td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15"><tt>╛</tt></td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15"><tt>L</tt></td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15"><tt>-</tt></td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15"><tt>+</tt></td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15"><tt>+</tt></td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15"><tt>T</tt></td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15"><tt>+</tt></td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15"><tt>+</tt></td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15"><tt>-</tt></td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15"><tt>-</tt></td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15"><tt>-</tt></td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15"><tt>і</tt></td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15"><tt>і</tt></td> 
+</tr> 
+ 
+<tr ALIGN=CENTER> 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="40">0x90</td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15"><tt>-</tt></td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15"><tt>-</tt></td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15"><tt>-</tt></td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15"><tt>?</tt></td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15"><tt>і</tt></td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15"><tt>∙</tt></td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15"><tt>v</tt></td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15"><tt>?</tt></td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15"><tt>?</tt></td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15"><tt>?</tt></td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15"><tt>&nbsp;</tt></td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15"><tt>?</tt></td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15"><tt>╟</tt></td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15"><tt>?</tt></td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15"><tt>Ї</tt></td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15"><tt>?</tt></td> 
+</tr> 
+ 
+<tr ALIGN=CENTER> 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15">0xa0</td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15"><tt>=</tt></td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15"><tt>і</tt></td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15"><tt>-</tt></td> 
+ 
+<!-- cyrillic/russian small io --> 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15"><tt><b>╦</b></tt></td> 
+ 
+<!-- cyrillic/ukrainian small ie --> 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15"><tt><b>╨</b></tt></td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15"><tt>Ц</tt></td> 
+ 
+<!-- cyrillic/ukrainian small i --> 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15"><tt><b>Ё</b></tt></td> 
+ 
+<!-- cyrillic/ukrainian small yi --> 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15"><tt><b>©</b></tt></td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15"><tt>╛</tt></td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15"><tt>L</tt></td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15"><tt>L</tt></td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15"><tt>L</tt></td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15"><tt>-</tt></td> 
+ 
+<!-- cyrillic/ukrainian small ghe with upturn --> 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15"><tt><b>Є</b></tt></td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15"><tt>-</tt></td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15"><tt>і</tt></td> 
+</tr> 
+ 
+<tr ALIGN=CENTER> 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="40">0xb0</td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15"><tt>і</tt></td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15"><tt>і</tt></td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15"><tt>і</tt></td> 
+ 
+<!-- cyrillic/russian capital io --> 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15"><tt><b>╗</b></tt></td> 
+ 
+<!-- cyrillic/ukrainian capital ie --> 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15"><tt><b>╙</b></tt></td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15"><tt>і</tt></td> 
+ 
+<!-- cyrillic/ukrainian capital i --> 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15"><tt><b>╡</b></tt></td> 
+ 
+<!-- cyrillic/ukrainian capital yi --> 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15"><tt><b>╞</b></tt></td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15"><tt>T</tt></td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15"><tt>і</tt></td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15"><tt>і</tt></td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15"><tt>і</tt></td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15"><tt>+</tt></td> 
+ 
+<!-- cyrillic/ukrainian capital ghe with upturn --> 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15"><tt><b>╔</b></tt></td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15"><tt>+</tt></td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15"><tt>╘</tt></td> 
+</tr> 
+ 
+<tr ALIGN=CENTER> 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15">0xc0</td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15"><tt>Ч</tt></td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15"><tt>Ю</tt></td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15"><tt>А</tt></td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15"><tt>Ж</tt></td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15"><tt>Д</tt></td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15"><tt>Е</tt></td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15"><tt>Т</tt></td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15"><tt>Ц</tt></td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15"><tt>У</tt></td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15"><tt>Х</tt></td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15"><tt>И</tt></td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15"><tt>Й</tt></td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15"><tt>К</tt></td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15"><tt>Л</tt></td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15"><tt>М</tt></td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15"><tt>Н</tt></td> 
+</tr> 
+ 
+<tr ALIGN=CENTER> 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="40">0xd0</td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15"><tt>О</tt></td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15"><tt>Ъ</tt></td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15"><tt>П</tt></td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15"><tt>Я</tt></td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15"><tt>Р</tt></td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15"><tt>С</tt></td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15"><tt>Ф</tt></td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15"><tt>Б</tt></td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15"><tt>Э</tt></td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15"><tt>Ш</tt></td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15"><tt>Г</tt></td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15"><tt>Ь</tt></td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15"><tt>Щ</tt></td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15"><tt>Ы</tt></td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15"><tt>В</tt></td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15"><tt>З</tt></td> 
+</tr> 
+ 
+<tr ALIGN=CENTER> 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15">0xe0</td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15"><tt>ч</tt></td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15"><tt>ю</tt></td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15"><tt>а</tt></td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15"><tt>ж</tt></td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15"><tt>д</tt></td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15"><tt>е</tt></td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15"><tt>т</tt></td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15"><tt>ц</tt></td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15"><tt>у</tt></td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15"><tt>х</tt></td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15"><tt>и</tt></td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15"><tt>й</tt></td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15"><tt>к</tt></td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15"><tt>л</tt></td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15"><tt>м</tt></td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15"><tt>н</tt></td> 
+</tr> 
+ 
+<tr ALIGN=CENTER> 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="40">0xf0</td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15"><tt>о</tt></td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15"><tt>ъ</tt></td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15"><tt>п</tt></td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15"><tt>я</tt></td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15"><tt>р</tt></td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15"><tt>с</tt></td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15"><tt>ф</tt></td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15"><tt>б</tt></td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15"><tt>э</tt></td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15"><tt>ш</tt></td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15"><tt>г</tt></td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15"><tt>ь</tt></td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15"><tt>щ</tt></td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15"><tt>ы</tt></td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15"><tt>в</tt></td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15"><tt>з</tt></td> 
+</tr> 
+</table> 
+ 
+<hr width=500 align=left><a NAME="Proportional"></a> 
+ 
+<table BORDER=0 CELLSPACING=0 CELLPADDING=0 COLS=2 WIDTH="505" > 
+<tr> 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="40"></td> 
+ 
+<td ALIGN=LEFT VALIGN=TOP><img SRC="koi8-u_test16.gif" ALT="KOI8-U Map" BORDER=0 height=245 width=464></td></tr> 
+</table> 
+ 
+<hr width=500 align=left> 
+ 
+<table BORDER CELLSPACING=0 CELLPADDING=0 WIDTH="505" > 
+<caption><i>Proportional Font</i>: <b>80</b>H - <b>FF</b></caption> 
+ 
+<tr ALIGN=CENTER> 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="40">0x80</td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15">-</td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15">і</td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15">-</td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15">╛</td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15">L</td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15">-</td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15">+</td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15">+</td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15">T</td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15">+</td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15">+</td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15">-</td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15">-</td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15">-</td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15">і</td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15">і</td> 
+</tr> 
+ 
+<tr ALIGN=CENTER> 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="40">0x90</td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15">-</td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15">-</td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15">-</td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15">?</td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15">і</td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15">∙</td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15">-</td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15">-</td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15">?</td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15">?</td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15">&nbsp;</td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15">?</td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15">╟</td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15">?</td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15">Ї</td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15">?</td> 
+</tr> 
+ 
+<tr ALIGN=CENTER> 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15">0xa0</td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15">=</td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15">і</td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15">-</td> 
+ 
+<!-- cyrillic/russian small io --> 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15"><b>╦</b></td> 
+ 
+<!-- cyrillic/ukrainian small ie --> 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15"><b>╨</b></td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15">Ц</td> 
+ 
+<!-- cyrillic/ukrainian small i --> 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15"><b>Ё</b></td> 
+ 
+<!-- cyrillic/ukrainian small yi --> 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15"><b>©</b></td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15">╛</td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15">L</td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15">L</td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15">L</td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15">-</td> 
+ 
+<!-- cyrillic/ukrainian small ghe with upturn --> 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15"><b>Є</b></td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15">-</td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15">і</td> 
+</tr> 
+ 
+<tr ALIGN=CENTER> 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="40">0xb0</td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15">і</td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15">і</td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15">і</td> 
+ 
+<!-- cyrillic/russian capital io --> 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15"><b>╗</b></td> 
+ 
+<!-- cyrillic/ukrainian capital ie --> 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15"><b>╙</b></td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15">і</td> 
+ 
+<!-- cyrillic/ukrainian capital i --> 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15"><b>╡</b></td> 
+ 
+<!-- cyrillic/ukrainian capital yi --> 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15"><b>╞</b></td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15">T</td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15">і</td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15">і</td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15">і</td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15">+</td> 
+ 
+<!-- cyrillic/ukrainian capital ghe with upturn --> 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15"><b>╔</b></td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15">+</td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15">╘</td> 
+</tr> 
+ 
+<tr ALIGN=CENTER> 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15">0xc0</td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15">Ч</td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15">Ю</td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15">А</td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15">Ж</td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15">Д</td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15">Е</td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15">Т</td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15">Ц</td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15">У</td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15">Х</td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15">И</td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15">Й</td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15">К</td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15">Л</td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15">М</td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15">Н</td> 
+</tr> 
+ 
+<tr ALIGN=CENTER> 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="40">0xd0</td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15">О</td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15">Ъ</td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15">П</td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15">Я</td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15">Р</td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15">С</td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15">Ф</td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15">Б</td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15">Э</td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15">Ш</td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15">Г</td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15">Ь</td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15">Щ</td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15">Ы</td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15">В</td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15">З</td> 
+</tr> 
+ 
+<tr ALIGN=CENTER> 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15">0xe0</td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15">ч</td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15">ю</td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15">а</td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15">ж</td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15">д</td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15">е</td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15">т</td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15">ц</td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15">у</td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15">х</td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15">и</td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15">й</td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15">к</td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15">л</td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15">м</td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15">н</td> 
+</tr> 
+ 
+<tr ALIGN=CENTER> 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="40">0xf0</td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15">о</td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15">ъ</td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15">п</td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15">я</td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15">р</td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15">с</td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15">ф</td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15">б</td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15">э</td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15">ш</td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15">г</td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15">ь</td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15">щ</td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15">ы</td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15">в</td> 
+ 
+<td ALIGN=CENTER VALIGN=CENTER WIDTH="29" HEIGHT="15">з</td> 
+</tr> 
+</table> 
+ 
+<p>Download Ukrainian KOI8-U fonts for <a href="ttfs/koi8-u-ttf.zip">MS
+Windows</a> 
+<hr> 
+You can copy this page for your personal non-profit use.
+<br>Feel free to place this page on your WWW Server without any change
+with copyright disclaimer.
+<p> 
+<hr WIDTH="60%"> 
+ 
+<center><table> 
+<tr> 
+<td ALIGN=CENTER VALIGN=TOP><b><a href="../index.html">KOI8-U</a></b></td> 
+ 
+<td ALIGN=CENTER VALIGN=TOP>|</td> 
+ 
+<td ALIGN=CENTER VALIGN=TOP> 
+<center><a href="index.html">SW Suport&nbsp;</a></center> 
+</td> 
+ 
+<td ALIGN=CENTER VALIGN=TOP><b>|</b></td> 
+ 
+<td ALIGN=CENTER VALIGN=TOP> 
+<center><a href="koi8-u_sw.html">SW Setting up</a></center> 
+</td> 
+ 
+<td ALIGN=CENTER VALIGN=TOP>|</td> 
+ 
+<td ALIGN=CENTER VALIGN=TOP><b>Test Page</b></td> 
+ 
+<td ALIGN=CENTER VALIGN=TOP>|</td> 
+ 
+<td ALIGN=CENTER VALIGN=TOP> 
+<center><a href="koi8-u_fonts.html">Fonts</a></center> 
+</td> 
+ 
+<td ALIGN=CENTER VALIGN=TOP>|</td> 
+ 
+<td ALIGN=CENTER VALIGN=TOP><a href="koi8-u_kbd.html">Keyboard</a></td> 
+</tr> 
+</table></center> 
+ 
+<hr> 
+<font size=-1>Copyright 1996-2000. Yuri Demchenko.</font> 
+</body> 
+</html> 
