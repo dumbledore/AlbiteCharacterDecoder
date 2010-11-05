@@ -32,9 +32,9 @@ public interface Encodings {
      */
     public static final String[] ASCII_ALIASES = new String[] {
         "us-ascii", "ascii",
-        "ISO646-US", "ISO_646.IRV:1991",
-        "ISO-IR-6", "iso-ir-6us", "ANSI_X3.4-1968", "ANSI_X3.4-1986",
-        "IBM367", "US", "CSASCII"
+        "iso646-us", "iso_646.irv:1991",
+        "iso-ir-6", "iso-ir-6us", "ansi_x3.4-1968", "ansi_x3.4-1986",
+        "ibm367", "us", "csascii"
     };
 
     public static final String ASCII = ASCII_ALIASES[0];
@@ -49,7 +49,7 @@ public interface Encodings {
      */
     public static final String[] ISO_8859_1_ALIASES = new String[] {
         "iso-8859-1",
-        "cp819", "csISOLatin1", "ibm819",
+        "cp819", "csisolatin1", "ibm819",
         "iso_8859-1", "iso_8859-1:1987", "iso8859-1",
         "iso-ir-100", "l1", "latin1"
     };
@@ -58,7 +58,7 @@ public interface Encodings {
      * Western and Central Europe
      */
     public static final String[] ISO_8859_2_ALIASES = new String[] {
-        "iso-8859-2", "csISOLatin2", "iso_8859-2",
+        "iso-8859-2", "csisolatin2", "iso_8859-2",
         "iso_8859-2:1987", "iso8859-2", "iso-ir-101", "l2", "latin2"
     };
 
@@ -67,22 +67,22 @@ public interface Encodings {
      */
     public static final String[] ISO_8859_3_ALIASES = new String[] {
         "iso-8859-3",
-        "csISOLatin3", "ISO_8859-3", "ISO_8859-3:1988",
+        "csisolatin3", "iso_8859-3", "iso_8859-3:1988",
         "iso-ir-109", "l3", "latin3"
     };
 
     public static final String[] ISO_8859_4_ALIASES = new String[] {
         "iso-8859-4",
-        "csISOLatin4", "ISO_8859-4",
-        "ISO_8859-4:1988", "iso-ir-110", "l4", "latin4"
+        "csisolatin4", "iso_8859-4",
+        "iso_8859-4:1988", "iso-ir-110", "l4", "latin4"
     };
 
     /*
      * Cyrillic
      */
     public static final String[] ISO_8859_5_ALIASES = new String[] {
-        "iso-8859-5", "csISOLatin5", "csISOLatinCyrillic",
-        "cyrillic", "ISO_8859-5", "ISO_8859-5:1988", "iso-ir-144", "l5"
+        "iso-8859-5", "csisolatin5", "csisolatincyrillic",
+        "cyrillic", "iso_8859-5", "iso_8859-5:1988", "iso-ir-144", "l5"
     };
 
     /*
@@ -93,8 +93,8 @@ public interface Encodings {
      * Greek
      */
     public static final String[] ISO_8859_7_ALIASES = new String[] {
-        "iso-8859-7", "csISOLatinGreek", "ECMA-118", "ELOT_928",
-        "greek", "greek8", "ISO_8859-7", "ISO_8859-7:1987", "iso-ir-126"
+        "iso-8859-7", "csisolatingreek", "ecma-118", "elot_928",
+        "greek", "greek8", "iso_8859-7", "iso_8859-7:1987", "iso-ir-126"
     };
 
     /*
@@ -106,7 +106,7 @@ public interface Encodings {
      */
     public static final String[] ISO_8859_9_ALIASES = new String[] {
         "iso-8859-9",
-        "csISOLatin5", "ISO_8859-9", "ISO_8859-9:1989",
+        "csisolatin5", "iso_8859-9", "iso_8859-9:1989",
         "iso-ir-148", "l5", "latin5"
     };
 
@@ -116,9 +116,9 @@ public interface Encodings {
     public static final String[] ISO_8859_10_ALIASES = new String[] {
         "iso-8859-10",
         "iso_8859-10",
-        "ISO_8859-10:1992", "ISO-IR-157",
-        "LATIN6", "L6", "CSISOLATIN6",
-        "ISO8859-10"
+        "iso_8859-10:1992", "iso-ir-157",
+        "latin6", "l6", "csisolatin6",
+        "iso8859-10"
     };
 
     /*
@@ -133,18 +133,18 @@ public interface Encodings {
      * Baltic + Polish
      */
     public static final String[] ISO_8859_13_ALIASES = new String[] {
-        "ISO-8859-13",
-        "ISO_8859-13",
-        "ISO-IR-179", "LATIN7", "L7", "ISO8859"
+        "iso-8859-13",
+        "iso_8859-13",
+        "iso-ir-179", "latin7", "l7", "iso8859"
     };
 
     /*
      * Celtic (Irish Gaelic, Scottish, Welsh)
      */
     public static final String[] ISO_8859_14_ALIASES = new String[] {
-        "ISO-8859-14", "ISO_8859-14", "ISO_8859-14:1998",
-        "ISO-IR-199", "LATIN8", "L8",
-        "ISO-CELTIC", "ISO8859-14"
+        "iso-8859-14", "iso_8859-14", "iso_8859-14:1998",
+        "iso-ir-199", "latin8", "l8",
+        "iso-celtic", "iso8859-14"
     };
     
     /*
@@ -152,7 +152,7 @@ public interface Encodings {
      */
     public static final String[] ISO_8859_15_ALIASES = new String[] {
         "iso-8859-15",
-        "csISOLatin9", "ISO_8859-15", "l9", "latin9"
+        "csisolatin9", "iso_8859-15", "l9", "latin9"
     };
 
     /*
@@ -161,9 +161,9 @@ public interface Encodings {
      * Hungarian, Albanian, Romanian, German, Italian)
      */
     public static final String[] ISO_8859_16_ALIASES = new String[] {
-        "ISO-8859-16", "ISO_8859-16", "ISO_8859-16:2001",
-        "ISO-IR-226",
-        "LATIN10", "L10", "ISO8859-16"
+        "iso-8859-16", "iso_8859-16", "iso_8859-16:2001",
+        "iso-ir-226",
+        "latin10", "l10", "iso8859-16"
     };
 
     public static final String ISO_8859_1 = ISO_8859_1_ALIASES[0];
@@ -220,7 +220,7 @@ public interface Encodings {
      * Turkish
      */
     public static final String[] WINDOWS_1254_ALIASES = new String[] {
-        "windows-1254"
+        "windows-1254", "x-cp1254", "cp1254"
     };
 
     /*
@@ -254,7 +254,7 @@ public interface Encodings {
      * --------------------------------------------------------------------
      */
     public static final String[] KOI8_R_ALIASES = new String[] {
-        "koi8-r", "csKOI8R", "koi", "koi8", "koi8r"
+        "koi8-r", "cskoi8r", "koi", "koi8", "koi8r"
     };
 
     public static final String[] KOI8_RU_ALIASES = new String[] {
