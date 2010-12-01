@@ -74,7 +74,7 @@ One can change the encoding at any time. If the encoding is not supported, a `Un
 	
 		try {
 			reader.setEncoding("iso-8859-1");
-		catch(UnsupportedEncodingException e) {}
+		} catch(UnsupportedEncodingException e) {}
     }
 
 One can also get the current encoding of the reader:
