@@ -15,9 +15,7 @@ import java13.io.BufferedInputStream;
  *
  * @author albus
  */
-public class AlbiteStreamReader
-        extends Reader
-        implements Encodings {
+public class AlbiteStreamReader extends Reader {
 
     private final   InputStream             in;
     private         AlbiteCharacterDecoder  decoder;
@@ -134,5 +132,9 @@ public class AlbiteStreamReader
 
     public static boolean encodingSupported(final String encoding) {
         return AlbiteCharacterDecoder.decoderAvailable(encoding);
+    }
+
+    public final String getEncoding() {
+        return this.decoder.getEncoding();
     }
 }

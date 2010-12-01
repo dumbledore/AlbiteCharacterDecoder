@@ -66,4 +66,23 @@ If one would like to check whether an encoding is supported by the reader, one c
 
 	boolean supported = AlbiteStreamReader.encodingSupported(encoding);
 
+One can change the encoding at any time. If the encoding is not supported, a `UnsupportedEncodingException` would be thrown, and the reader would continue to use its current encoding.
+
+    {
+		AlbiteStreamReader reader =
+				new AlbiteStreamReader(origStream, "utf-8");
+	
+		try {
+			reader.setEncoding("iso-8859-1");
+		catch(UnsupportedEncodingException e) {}
+    }
+
+One can also get the current encoding of the reader:
+
+    {
+		AlbiteStreamReader reader =
+				new AlbiteStreamReader(origStream, "utf-8");
+		
+		System.out.println(reader.getEncoding());
+    }
 The code is based on some code from libiconv.
