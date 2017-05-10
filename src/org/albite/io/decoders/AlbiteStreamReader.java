@@ -76,6 +76,9 @@ public class AlbiteStreamReader extends Reader {
                 /*
                  * EOF
                  */
+                if (i == 0) {
+            		return -1;
+            	}
                 return i;
             }
 
